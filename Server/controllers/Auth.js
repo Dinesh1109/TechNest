@@ -300,11 +300,10 @@ exports.changePassword = async (req, res) => {
       .json({ success: true, message: "Password updated successfully" });
   } catch (err) {
     // If there's an error updating the password, log the error and return a 500 (Internal Server Error) error
-    console.error("Error occurred while updating password:", error);
+    console.error("Error occurred while updating password:", err);
     return res.status(500).json({
       success: false,
       message: "Error occurred while updating password",
-      error: error.message,
     });
   }
 };
