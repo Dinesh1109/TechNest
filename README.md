@@ -1,8 +1,10 @@
-# React & Tailwind CSS Starter Pack
 
-TECHNEST Online Education Platform (MERN App) 
+TECHNEST
+---
+An Online Education Platform (MERN App) 
 
 Project Description
+---
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide:
 
 A seamless and interactive learning experience for students, making education more accessible and engaging.
@@ -17,8 +19,3 @@ Future Enhancements: The list of potential future enhancements to the platform, 
 In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to provide an immersive learning experience to students and a platform for instructors to showcase their expertise. In the following sections, we will delve into the technical details of the platform, which will provide a comprehensive understanding of the platform's features and functionalities.
 
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
